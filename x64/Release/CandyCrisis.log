@@ -1,0 +1,77 @@
+﻿  stdafx.cpp
+  blitter.cpp
+  control.cpp
+D:\development\Candy Crisis\control.cpp(40,26): warning C4018: '>=': signed/unsigned mismatch
+D:\development\Candy Crisis\control.cpp(72,30): warning C4018: '>=': signed/unsigned mismatch
+D:\development\Candy Crisis\control.cpp(156,23): warning C4018: '>=': signed/unsigned mismatch
+D:\development\Candy Crisis\control.cpp(168,23): warning C4018: '>=': signed/unsigned mismatch
+D:\development\Candy Crisis\control.cpp(199,21): warning C4018: '>': signed/unsigned mismatch
+  font.cpp
+  gameticks.cpp
+  graphics.cpp
+D:\development\Candy Crisis\graphics.cpp(170,14): warning C4018: '>': signed/unsigned mismatch
+  graymonitor.cpp
+  grays.cpp
+D:\development\Candy Crisis\grays.cpp(53,24): warning C4018: '>': signed/unsigned mismatch
+D:\development\Candy Crisis\grays.cpp(187,23): warning C4018: '>': signed/unsigned mismatch
+  gworld.cpp
+  hiscore.cpp
+D:\development\Candy Crisis\hiscore.cpp(143,15): warning C4018: '>': signed/unsigned mismatch
+D:\development\Candy Crisis\hiscore.cpp(182,13): warning C4018: '<=': signed/unsigned mismatch
+D:\development\Candy Crisis\hiscore.cpp(189,17): warning C4018: '>': signed/unsigned mismatch
+  keyselect.cpp
+  level.cpp
+D:\development\Candy Crisis\level.cpp(444,21): warning C4018: '<=': signed/unsigned mismatch
+D:\development\Candy Crisis\level.cpp(452,25): warning C4018: '>': signed/unsigned mismatch
+D:\development\Candy Crisis\level.cpp(937,23): warning C4018: '>=': signed/unsigned mismatch
+D:\development\Candy Crisis\level.cpp(1275,17): warning C4018: '>=': signed/unsigned mismatch
+  main.cpp
+  moving.cpp
+  MTypes.cpp
+  music.cpp
+  next.cpp
+D:\development\Candy Crisis\next.cpp(125,23): warning C4018: '>': signed/unsigned mismatch
+D:\development\Candy Crisis\next.cpp(142,24): warning C4018: '>': signed/unsigned mismatch
+  opponent.cpp
+D:\development\Candy Crisis\opponent.cpp(118,23): warning C4018: '>': signed/unsigned mismatch
+D:\development\Candy Crisis\opponent.cpp(174,23): warning C4018: '>': signed/unsigned mismatch
+D:\development\Candy Crisis\opponent.cpp(191,24): warning C4018: '>': signed/unsigned mismatch
+  pause.cpp
+D:\development\Candy Crisis\pause.cpp(103,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\development\Candy Crisis\pause.cpp(139,14): warning C4305: '+=': truncation from 'double' to 'float'
+D:\development\Candy Crisis\pause.cpp(554,74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\development\Candy Crisis\pause.cpp(660,74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\development\Candy Crisis\pause.cpp(687,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\development\Candy Crisis\pause.cpp(707,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\development\Candy Crisis\pause.cpp(712,53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\development\Candy Crisis\pause.cpp(716,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\development\Candy Crisis\pause.cpp(743,67): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\development\Candy Crisis\pause.cpp(1019,41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\development\Candy Crisis\pause.cpp(1154,19): warning C4018: '<=': signed/unsigned mismatch
+D:\development\Candy Crisis\pause.cpp(1162,23): warning C4018: '>': signed/unsigned mismatch
+  players.cpp
+D:\development\Candy Crisis\players.cpp(487,23): warning C4018: '<': signed/unsigned mismatch
+D:\development\Candy Crisis\players.cpp(708,23): warning C4018: '>=': signed/unsigned mismatch
+  prefs.cpp
+  Compiling...
+  random.cpp
+  score.cpp
+D:\development\Candy Crisis\score.cpp(60,23): warning C4018: '>=': signed/unsigned mismatch
+  SDLU.cpp
+  soundfx.cpp
+  tutorial.cpp
+D:\development\Candy Crisis\tutorial.cpp(460,22): warning C4018: '<': signed/unsigned mismatch
+  tweak.cpp
+D:\development\Candy Crisis\tweak.cpp(100,34): warning C4018: '>=': signed/unsigned mismatch
+D:\development\Candy Crisis\tweak.cpp(101,34): warning C4018: '>=': signed/unsigned mismatch
+D:\development\Candy Crisis\tweak.cpp(102,34): warning C4018: '>=': signed/unsigned mismatch
+  victory.cpp
+D:\development\Candy Crisis\victory.cpp(96,15): warning C4018: '<': signed/unsigned mismatch
+D:\development\Candy Crisis\victory.cpp(99,15): warning C4018: '>': signed/unsigned mismatch
+  zap.cpp
+D:\development\Candy Crisis\zap.cpp(242,23): warning C4018: '>': signed/unsigned mismatch
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 368 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  CandyCrisis.vcxproj -> D:\development\Candy Crisis\x64\Release\CandyCrisis.exe
